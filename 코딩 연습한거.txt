@@ -1,0 +1,46 @@
+1. <img>
+src = source
+unsplash.com
+
+<img src="way.jpg" width="100%">
+
+src랑 width 바뀌어두댐 
+
+2. <li> </li> 줄바꾸기
+단락 바꾸기 <ul> </ul>
+
+li 자식태그 ul 부모 태그 줄바꾸기
+<ul>
+  <li>1. HTML</li>
+  <li>2. CSS</li>
+  <li>3. JavaScript</li>
+</ul>
+<ul>
+  <li>egoing</li>
+  <li>k8805</li>
+  <li>youbin</li>
+</ul>
+li태그 list 의 약자 
+ul태그 unordered list 약자
+3. 숫자 자동넣기
+ol태그 ordered list 약자 
+
+4. 
+<head> </head> 태그 제목 부분에 무조건 써야하는태그
+5. <body> </body> 태그 본문 부분에 무조건 써야하는태그
+
+6. <html> 태그
+html 파일이면 관용적으로 무조건 써주는 태그
+<!doctype html>
+<html>
+
+7. <a href> </a> 태그 
+링크 걸고싶은곳 표시
+근데 정ㅂ오부족
+h= hypertext ref""= reference
+
+8. target="_blank" 링크걸린곳 새 인터넷 창으로 열리게 하고싶을때
+
+
+
+https://www.w3.org/TR/html51/
